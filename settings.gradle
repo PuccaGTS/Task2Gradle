@@ -1,0 +1,5 @@
+rootProject.name = 'NetolGradleHW'
+include 'db'
+include 'api'
+include 'service'
+
